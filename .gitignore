@@ -1,0 +1,4 @@
+/venv
+environment.env
+.env
+.idea/*
